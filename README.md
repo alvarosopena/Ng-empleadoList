@@ -1,5 +1,9 @@
 # EmpleadoList
 
+deploy https://celebrated-jalebi-1379ba.netlify.app/
+
+FALTA REVISAR - ERROR EN LA MUESTRA Y FILTRO DE EMPLEADOS
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
 
 ## Development server
